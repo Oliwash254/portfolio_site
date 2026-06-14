@@ -101,3 +101,4 @@ Every future push to `main` will auto-deploy.
 - **Testimonials**: the four testimonials are placeholders — swap in real client feedback once available.
 - **Fiverr / Upwork link**: update the placeholder `@olivershaban` handle in the Contact section with your real profile URLs.
 - **Project demo links**: each project card links to its GitHub repo. Add live demo URLs once any of these are deployed.
+- ## vercel app : https://portfolio-site-b3t11v4xd-oliwash254s-projects.vercel.app/
